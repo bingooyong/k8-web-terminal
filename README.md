@@ -24,6 +24,13 @@
 
 ![1](./doc/1.png)
 
+
+## 源码编译
+```bash
+cd static
+jspm bundle-sfx frontend/boot.js --inject
+```
+
 ## 使用方式
 - 1
   在k8s集群内部署：使用"k8-deploy.yaml"编排进行部署

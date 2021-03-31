@@ -13,3 +13,7 @@ k8
 *.idea
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+
+/static/jspm_packages/
+/static/node_modules/
