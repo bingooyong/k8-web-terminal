@@ -1,5 +1,5 @@
 from golang
-MAINTAINER Eric 
+MAINTAINER lvyong1985
 COPY ./conf /opt/conf
 COPY ./static /opt/static
 COPY ./views /opt/views

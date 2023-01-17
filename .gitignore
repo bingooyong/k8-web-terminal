@@ -17,3 +17,5 @@ k8
 
 /static/jspm_packages/
 /static/node_modules/
+
+/k8-web-terminal
